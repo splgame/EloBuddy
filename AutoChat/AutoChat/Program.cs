@@ -126,12 +126,12 @@ namespace AutoChat
 
             Apologize = new List<string>
             {
-                "damn", "sorry guys", "sorry", "woops", "soz", "my bad"
+                "damn lag", "sorry guys", "sorry i'm new", "woops", "soz", "my bad"
             };
 
             Sympathy = new List<string>
             {
-                "bl", "bl", "tough luck", "bad luck", "bummer"
+                "bl", "bl", "welp", "bad luck", "bummer"
             };
 
             Clutch = new List<string>
